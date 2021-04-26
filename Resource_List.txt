@@ -1,0 +1,9 @@
+Resources Used to Create the Project:
+
+Pandas User Guide (https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html#user-guide) - to help debug issues and look up pandas commands with which I wasn't familiar
+
+Stack Overflow (https://stackoverflow.com/) - to help debug issues and look up pandas commands with which I wasn't familiar
+
+BuzzFeed News Open Source Github Repository (https://github.com/BuzzFeedNews/nics-firearm-background-checks/blob/master/README.md) - Original Source of the background spreadsheet we're using - to get background info on the data
+
+FBI NICS Page (https://www.fbi.gov/services/cjis/nics/about-nics) - to understand more about NICS and the data that they report
